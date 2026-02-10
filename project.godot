@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Top 10 Tugh Moments"
+run/main_scene="uid://b0db0bvp1qbl"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
